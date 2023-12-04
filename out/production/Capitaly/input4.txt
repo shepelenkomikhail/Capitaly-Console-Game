@@ -1,0 +1,20 @@
+7
+Property
+Property
+Service 3000
+Lucky 1000
+Property
+Property
+Service 2500
+3
+Mariia Careful
+Anastasiia Greedy
+Angelina Tactical
+7
+1
+2
+3
+4
+5
+6
+7

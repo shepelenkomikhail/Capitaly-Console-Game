@@ -1,0 +1,23 @@
+8
+Property
+Property
+Service 5000
+Lucky 100
+Property
+Property
+Service 1500
+Lucky 300
+4
+Anton Greedy
+Anatoliy Careful
+Max Tactical
+Draxler Greedy
+8
+1
+2
+3
+4
+5
+6
+7
+8

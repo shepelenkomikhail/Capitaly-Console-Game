@@ -1,0 +1,17 @@
+5
+Property
+Property
+Service 2000
+Lucky 500
+Property
+4
+Dima Greedy
+Alex Tactical
+Patric Careful
+Alina Greedy
+5
+1
+2
+3
+4
+5

@@ -1,0 +1,21 @@
+8
+Property
+Property
+Service 4000
+Lucky 1500
+Property
+Property
+Service 3500
+3
+Christian Tactical
+Platon Careful
+Dorina Greedy
+7
+1
+2
+3
+4
+5
+6
+7
+
